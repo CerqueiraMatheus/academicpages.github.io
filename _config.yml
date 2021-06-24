@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "mailto:matheus.crqra@gmail.com"
+  email            : "matheus.crqra@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Matheus-Pinto-4"
   uri              :
   bitbucket        :
