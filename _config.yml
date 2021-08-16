@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Matheus H C Pinto"
   avatar           : "profile.png"
-  bio              : "CS student at University of Sao Paulo"
-  site             : "matheus.crqra at gmail.com"
+  bio              : "Undergrad @ University of Sao Paulo"
+  # site             : "matheus.crqra at gmail.com"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  # lattes           : "1321342846727787"
+  lattes           : "1321342846727787"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-3587-490X"
