@@ -44,7 +44,13 @@
     line-height: 1.5;
   }
 
+  p, h3, h4 {
+    text-align: center;
+    margin-left: -1em;
+  }
+
   img {
+    align-self: center;
     width: 100%;
   }
 }
