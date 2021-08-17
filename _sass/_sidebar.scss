@@ -44,14 +44,21 @@
     line-height: 1.5;
   }
 
-  p, h3, h4 {
-    text-align: center;
-    margin-left: -1em;
-  }
+  
 
   img {
-    align-self: center;
     width: 100%;
+  }
+
+  @media only screen and (min-width: 925px){
+    img {
+      align-self: center;
+    }
+
+    p, h3, h4 {
+      text-align: center;
+      margin-left: -1em;
+    }
   }
 }
 
