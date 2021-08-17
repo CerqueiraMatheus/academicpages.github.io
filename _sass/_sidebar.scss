@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -17,45 +17,53 @@
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
     }
   }
 
-
   @include breakpoint($x-large) {
     padding-right: 0;
   }
 
-  h2, h3, h4, h5, h6 {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
   }
 
-  h3, h4 {
+  h3,
+  h4 {
     font-size: $type-size-5;
+    margin-left: -3em;
   }
 
-  p, li {
+  p,
+  li {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
 
-  
-
   img {
-    width: 100%;
+    width: 0%;
   }
 
-  @media only screen and (min-width: 925px){
+  @media only screen and (min-width: 925px) {
     img {
       align-self: center;
+      vertical-align: bottom;
+      width: 100%;
     }
 
-    p, h3, h4 {
+    p,
+    h3,
+    h4 {
       text-align: center;
       margin-left: -1em;
     }
@@ -135,8 +143,7 @@
 }
 
 .author__bio {
-  margin: 0;
-
+  margin-left: -4em;
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
