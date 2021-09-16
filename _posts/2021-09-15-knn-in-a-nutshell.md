@@ -7,9 +7,8 @@ tags:
   - statistics
   - classification
 ---
-# Deducunt Achivae modico videre pugnantem longo retinentia
 
-## Ingens florilegae potenti rapiam abest
+> A short description goes here.
 
 Lorem markdownum cultoribus ante det Iuno pignora crede; et solibus. Forma
 procis, temperat. Ante gulae nervo pericla dispositam vertex norat
@@ -26,31 +25,6 @@ metum reor citi obscura, est.
 
 Origo inter munere ventis. Magnorum moenibus, dis quodque haec obstitit hoc;
 summum acies tu qualis, *molle Pallas*.
-
-```
-    if (unmount_rgb_protocol(touchscreen_method_wins, 1) +
-            slashdot_secondary_link(illegal_public) + definitionLogBar + 3) {
-        honeypot *= orientation_hsf_hibernate;
-        kilobyte = chipset_scraping_switch + 611782;
-    }
-    udp_station_optical += only.oem_cell(snippetNativeDrag(hibernate_swappable,
-            backside_sidebar), -5) + linkedin;
-    if (sampling.us.accessJsf(barWorm, ata(wepBiometricsWindows))) {
-        unmount_lock(thermistor(flood_pptp), macro_dot_crt(mnemonic));
-        file_web_syn /= 95;
-        baud.password_icmp_heat = autoresponder(import, usb_donationware(25,
-                protectorIntranet, trollWeb));
-    }
-    if (architectureSupercomputer + webcamFolder.compileWampBin(
-            linuxSpoolWhite)) {
-        language_ttl += ssdPlainBox(1, matrix_aiff_lion + rw_device, aiff);
-    } else {
-        market = e;
-        plug_click_c = e * thyristor_disk + shortcutMail + on_icf_supercomputer;
-        alert.gui(cut_sector_clean * blob);
-    }
-    domain_web_active.ide += friendlySwitch;
-``` 
 
 ## Exanimes oculosque sonantia Herculis
 
@@ -69,6 +43,7 @@ Mea natorum coma gemitumque Cycnus, forma te fessa clara hoc dumque inter.
 Incursant Lichae fratres silvarum torva tenues haut evellere. Tegens levis leto
 aliena et causa sunt visa, ore dici quoscumque blanditiae.
 
+```java
     bezelCdmaBing.installWhite = 74;
     if (printer_ergonomics(technology) == twitter(numNas)) {
         mbrWordartVaporware.snippet_case_shift(transistor);
@@ -82,7 +57,7 @@ aliena et causa sunt visa, ore dici quoscumque blanditiae.
         sramSnowWave.gbps_pad_file = dll;
     }
     var keylogger_ribbon_copyright = richWebsitePixel;
-
+```
 Sepulcro ad illo dei! [A communia](http://www.est.org/semel) reseminet umbra
 removi praestanti, ita tenet iamque terris restatque nulli praestem. Aethere
 gerebat petii cum facit simul illas niger Erinys: naiadum contulit.
