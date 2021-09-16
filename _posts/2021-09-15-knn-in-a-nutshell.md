@@ -27,6 +27,7 @@ metum reor citi obscura, est.
 Origo inter munere ventis. Magnorum moenibus, dis quodque haec obstitit hoc;
 summum acies tu qualis, *molle Pallas*.
 
+```
     if (unmount_rgb_protocol(touchscreen_method_wins, 1) +
             slashdot_secondary_link(illegal_public) + definitionLogBar + 3) {
         honeypot *= orientation_hsf_hibernate;
@@ -49,6 +50,7 @@ summum acies tu qualis, *molle Pallas*.
         alert.gui(cut_sector_clean * blob);
     }
     domain_web_active.ide += friendlySwitch;
+``` 
 
 ## Exanimes oculosque sonantia Herculis
 
